@@ -50,5 +50,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imubarak234/Math-Magicians.git"
+  },
+  "bugs": {
+    "url": "https://github.com/imubarak234/Math-Magicians/issues"
+  },
+  "homepage": "https://github.com/imubarak234/Math-Magicians#readme"
 }
