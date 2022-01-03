@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/imubarak234/Math-Magiciansstatic/css/main.073c9b0a.css",
+    "main.js": "/imubarak234/Math-Magiciansstatic/js/main.10606201.js",
+    "static/js/787.cfd8f164.chunk.js": "/imubarak234/Math-Magiciansstatic/js/787.cfd8f164.chunk.js",
+    "static/media/logo.svg": "/imubarak234/Math-Magiciansstatic/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/imubarak234/Math-Magiciansindex.html",
+    "main.073c9b0a.css.map": "/imubarak234/Math-Magiciansstatic/css/main.073c9b0a.css.map",
+    "main.10606201.js.map": "/imubarak234/Math-Magiciansstatic/js/main.10606201.js.map",
+    "787.cfd8f164.chunk.js.map": "/imubarak234/Math-Magiciansstatic/js/787.cfd8f164.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.10606201.js"
+  ]
+}
